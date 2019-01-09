@@ -3,7 +3,7 @@ list:
     slug: progettare-evolvere-cloud-aws
     title: Progettare e fare evolvere infrastrutture su AWS
     when: 7 Marzo 2019, Bologna
-    where: Hotel Savoia Regency, Via del Pilasto 2, 40127, Bologna BO
+    where: Hotel Savoia Regency, Via del Pilastro 2, 40127, Bologna BO
     map: https://goo.gl/maps/pT6toDSe3Em
     ticket: /tickets.html
     partner:
@@ -27,14 +27,14 @@ list:
     addressed_info: |
       Alla fine del corso saprai disegnare e implementare infrastrutture cloud AWS performanti, sicure ed affidabili con un’attenzione anche al contenimento e ottimizzazione dei costi.
     useful_info: |
-      La durata del corso è di una giornata e **si terrà il 7 Marzo** (il giorno prima del ContainerDay).
+      La durata del corso è di una giornata e **si terrà il 7 Marzo** (il giorno prima della conferenza).
       Qualche giorno prima del corso verrà fornito un voucer di accesso ai servizi AWS a tutti i partecipanti.
       È responsabilità del partecipante arrivare con portatile configurato e funzionante. Vi daremo tutte le indicazioni utili per la configurazione.
   -
     slug: corso-ansible
     title: Corso Ansible
     when: 7 Marzo 2019, Bologna
-    where: Hotel Savoia Regency, Via del Pilasto 2, 40127, Bologna BO
+    where: Hotel Savoia Regency, Via del Pilastro 2, 40127, Bologna BO
     map: https://goo.gl/maps/pT6toDSe3Em
     ticket: /tickets.html
     partner:
@@ -64,7 +64,7 @@ list:
     addressed_info: |
       Il corso si applica a tutti, ma è bene avere una confidenza di base con la shell Bash – si lavorerà su una macchina Vagrant Debian Jessie.
     useful_info: |
-      La durata del corso è di una giornata e **si terrà il 25 Ottobre** (il giorno prima del ContainerDay).
+      La durata del corso è di una giornata e **si terrà il 7 Marzo** (il giorno prima della conferenza).
       È responsabilità del partecipante arrivare con portatile configurato e funzionante con Vagrant. Vi daremo tutte le indicazioni utili per la configurazione.
   -
     slug: corso-kubernetes
