@@ -9,21 +9,21 @@ list:
     image: andrea-tosatto.jpg
     first_name: Andrea
     last_name: Tosatto
-    twitter:
+    twitter: _hilbert_
   -
     id: giovanni-toraldo
     description:
     image: giovanni-toraldo.jpg
     first_name: Giovanni
     last_name: Toraldo
-    twitter:
+    twitter: gionn
   -
     id: giuliano-formato
     description:
     image: giuliano-formato.jpg
     first_name: Giuliano
     last_name: Formato
-    twitter:
+    twitter: giulianoformato ‏
   -
     id: giulio-vian
     description:
@@ -37,7 +37,7 @@ list:
     image: lorenzo-fontana.jpg
     first_name: Lorenzo
     last_name: Fontana
-    twitter:
+    twitter: fntlnz ‏
   -
     id: niels-devos
     description:
@@ -51,4 +51,4 @@ list:
     image: paolo-tonin.jpg
     first_name: Paolo
     last_name: Tonin
-    twitter:
+    twitter: paolopstonin
