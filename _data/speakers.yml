@@ -3,10 +3,52 @@
 call_for_paper_url: mailto:info@incontrodevops.it
 call_for_paper: false
 list:
-#  -
-#    id: alessandro-mazzoli
-#    description:
-#    image: mazzoli.jpg
-#    first_name: Alessandro
-#    last_name: Mazzoli
-#    twitter: alendmazz
+  -
+    id: andrea-tosatto
+    description:
+    image: andrea-tosatto.jpg
+    first_name: Andrea
+    last_name: Tosatto
+    twitter:
+  -
+    id: giovanni-toraldo
+    description:
+    image: giovanni-toraldo.jpg
+    first_name: Giovanni
+    last_name: Toraldo
+    twitter:
+  -
+    id: giuliano-formato
+    description:
+    image: giuliano-formato.jpg
+    first_name: Giuliano
+    last_name: Formato
+    twitter:
+  -
+    id: giulio-vian
+    description:
+    image: giulio-vian.jpg
+    first_name: Giulio
+    last_name: Vian
+    twitter: giulio_vian
+  -
+    id: lorenzo-fontana
+    description:
+    image: lorenzo-fontana.jpg
+    first_name: Lorenzo
+    last_name: Fontana
+    twitter:
+  -
+    id: niels-devos
+    description:
+    image: niels-devos.jpg
+    first_name: Niels
+    last_name: de Vos
+    twitter: nixpanic
+  -
+    id: paolo-tonin
+    description:
+    image: paolo-tonin.jpg
+    first_name: Paolo
+    last_name: Tonin
+    twitter:

@@ -7,47 +7,37 @@ list:
     image: federico-campoli.jpg
     first_name: Federico
     last_name: Campoli
-    twitter: 
+    twitter:
   -
   -
     id: michael-cote
     description:
     image: michael-coté.jpg
-    first_name: Michael 
+    first_name: Michael
     last_name: Coté
-    twitter: 
+    twitter:
   -
   -
     id: adriano-pezzuto
     description:
     image: adriano-pezzuto.jpg
-    first_name: Adriano 	
+    first_name: Adriano
     last_name: Pezzuto
-    twitter: 
+    twitter:
   -
   -
     id: eduard-iacoboaia
     description:
     image: eduard-iacoboaia.jpg
-    first_name: Eduard 
+    first_name: Eduard
     last_name: Iacoboaia
-    twitter: 
+    twitter:
   -
   -
-    id: giovanni-toraldo
-    description:
-    image: giovanni-toraldo.jpg
-    first_name: Giovanni
-    last_name: Toraldo
-    twitter: 
+
   -
   -
-    id: lorenzo-fontana
-    description:
-    image: lorenzo-fontana.jpg
-    first_name: Lorenzo
-    last_name: Fontana
-    twitter: 
+
   -
   -
     id: roberto-franchini
@@ -55,15 +45,15 @@ list:
     image: roberto-franchini.jpg
     first_name: Roberto
     last_name: Franchini
-    twitter: 
+    twitter:
   -
   -
-    id: giuseppe-carnevali 
+    id: giuseppe-carnevali
     description:
     image: giuseppe-carnevali.jpg
     first_name: Giuseppe
     last_name: Carnevali
-    twitter: 
+    twitter:
   -
   -
     id: massimiliano-andriola
@@ -71,7 +61,7 @@ list:
     image: massimiliano-andriola.jpg
     first_name: Massimiliano
     last_name: Andriola
-    twitter: 
+    twitter:
   -
   -
     id: jihai-zhou
@@ -79,7 +69,7 @@ list:
     image: jihai-zhou.jpg
     first_name: Jihai
     last_name: Zhou
-    twitter: 
+    twitter:
   -
  -
     id: giulia-naponiello
@@ -87,7 +77,7 @@ list:
     image: giulia-naponiello.jpg
     first_name: Giulia
     last_name: Naponiello
-    twitter: 
+    twitter:
   -
   -
     id: giuseppe-lavagetto
@@ -95,15 +85,10 @@ list:
     image: giuseppe-lavagetto.jpg
     first_name: Giuseppe
     last_name: Lavagetto
-    twitter: 
+    twitter:
   -
   -
-    id: giulio-vian
-    description:
-    image: giulio-vian.jpg
-    first_name: Giulio
-    last_name: Vian
-    twitter: @giulio_vian
+
   -
   -
     id: serhat-can
@@ -111,7 +96,7 @@ list:
     image: serhat-can.jpg
     first_name: Serhat
     last_name: Can
-    twitter: 
+    twitter:
   -
   -
     id: alessandro-franceschi
@@ -119,7 +104,7 @@ list:
     image: alessandro-franceschi.jpg
     first_name: Alessandro
     last_name: Franceschi
-    twitter: 
+    twitter:
   -
   -
     id: andrea-francia
@@ -127,7 +112,7 @@ list:
     image: andrea-francia.jpg
     first_name: Andrea
     last_name: Francia
-    twitter: 
+    twitter:
   -
   -
     id: aurelien-hebert
@@ -135,7 +120,7 @@ list:
     image: aurelien-hebert.jpg
     first_name: Aurélien
     last_name: Hebért
-    twitter: 
+    twitter:
   -
   -
     id: francesco-gualazzi
@@ -143,7 +128,7 @@ list:
     image: francesco-gualazzi.jpg
     first_name: Francesco
     last_name: Gualazzi
-    twitter: 
+    twitter:
   -
   -
     id: massimo-referre
@@ -151,7 +136,7 @@ list:
     image: massimo-referre
     first_name: Massimo
     last_name: Re Ferrè
-    twitter: 
+    twitter:
   -
   -
     id: daniele-menon
@@ -159,7 +144,7 @@ list:
     image: daniele-menon.jpg
     first_name: Daniele
     last_name: Menon
-    twitter: 
+    twitter:
   -
  -
     id: umberto-nicoletti
@@ -167,7 +152,7 @@ list:
     image: umberto-nicoletti.jpg
     first_name: Umberto
     last_name: Nicoletti
-    twitter: 
+    twitter:
   -
   -
     id: leon-stigter
@@ -175,7 +160,7 @@ list:
     image: leon-stigter.jpg
     first_name: Leon
     last_name: Stigter
-    twitter: 
+    twitter:
   -
   -
     id: luca-acquaviva
@@ -183,7 +168,7 @@ list:
     image: luca-acquaviva.jpg
     first_name: Luca
     last_name: Acquaviva
-    twitter: 
+    twitter:
   -
   -
     id: giacomo-fiorini
@@ -191,7 +176,7 @@ list:
     image: giacomo-fiorini.jpg
     first_name: Giacomo
     last_name: Fiorini
-    twitter: 
+    twitter:
   -
   -
     id: roberto-bettazzoni
@@ -199,39 +184,23 @@ list:
     image: roberto-bettazzoni.jpg
     first_name: Roberto
     last_name: Bettazzoni
-    twitter: 
+    twitter:
+  -
+
   -
   -
-    id: andrea-tosatto
+    id: riccardo-capecchi
     description:
-    image: andrea-tosatto.jpg
-    first_name: Andrea
-    last_name: Tosatto
-    twitter: 
-  -
-  -
-    id: riccardo-capecchi 
-    description:
-    image: riccardo-capecchi.jpg 
+    image: riccardo-capecchi.jpg
     first_name: Riccardo
     last_name: Capecchi
-    twitter: 
+    twitter:
   -
   -
-    id: giuliano-formato
-    description:
-    image: giuliano-formato.jpg
-    first_name: Giuliano
-    last_name: Formato
-    twitter: 
+
   -
   -
-    id: niels-devos
-    description:
-    image: niels-devos.jpg
-    first_name: Niels 
-    last_name: de Vos
-    twitter: @nixpanic
+
   -
   -
     id: paolo-tonin
@@ -239,7 +208,7 @@ list:
     image: paolo-tonin.jpg
     first_name: Paolo
     last_name: Tonin
-    twitter: 
+    twitter:
   -
  -
     id: pierre-zemb
@@ -247,5 +216,5 @@ list:
     image: pierre-zemb.jpg
     first_name: Pierre
     last_name: Zemb
-    twitter: 
+    twitter:
   -

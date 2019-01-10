@@ -10,7 +10,7 @@ Combining the two tools it is possible to setup an environment where the
 backups are dynamically configured, performed and tested. The audience
 will learn how to configure two database servers in hot  standby with a
 backup server and a fourth machine used for testing the  backups.
-- 
+-
 
 -
 speaker_id: michael-cote
@@ -64,42 +64,12 @@ the benefits and the technical details of some not-main-stream (at that
 time) decisions we took.
 -
 -
-speaker_id: giovanni-toraldo
-	image: giovanni-toraldo.jpg
-	Title: "Introduzione a Traefik"
-
-	extract: >
-Scopriamo insieme il load-balancer open-source traefik, con supporto
-nativo alla configurazione dinamica con i più diffusi orchestratori di
-containers, certificati SSL automatici con Let's Encrypt e qualche caso
-d'uso reale.
--
--
-speaker_id: lorenzo-fontana
-	image: lorenzo-fontana.jpg
-	Title: "eBPF powered Distributed Kubernetes performance analysis"
-
-	extract: >
-Since the Linux kernel 4.x series a lot of enanchements
-reached mainline to the eBPF ecosystem giving us the capability to do a
-lot more than just network stuff.  The purpose of this talk is to give
-an initial understanding on what eBPF programs are and how to hook them
-to programs running inside Kubernetes clusters in order to answer
-targeted questions at cluster level but about very specific fine-grained
-situations happening in our programs and systems, like:
-- Had that function in my program been called ?
-- For a given function which arguments have been passed to it?  And what
-  it did return?
-- Which TCP packets are being retransmitted?
-- What are the queries running slow?
-- Insights on programming language events/gc
-- Had that file been opened?  Imagine a programmable Kubernetes
-  performance analysis tool that runs at cluster level without
-  performance implications how would you it to be?
 
 -
 -
-speaker_id: roberto-franchini 
+-
+-
+speaker_id: roberto-franchini
 	image: roberto-franchini.jpg
 	Title: "Testcontainers to the rescue"
 
@@ -115,8 +85,8 @@ the library, tricks and advice to create a reliable test
 infrastructure. 
 -
 -
-speaker_id: 
-- giuseppe-carnevali 
+speaker_id:
+- giuseppe-carnevali
 - massimiliano-andriola
 	image: giuseppe-carnevali.jpg
 	Title: "Legacy code nel db. Dai "Ruspant test" a tSQLt."
@@ -131,8 +101,8 @@ tSQLt.  Se siete interessati a conoscere quali sono gli ostacoli che il
 nostro team ha dovuto affrontare e superare durante questo percorso,
 allora questa è la presentazione che fa per voi.
 -
--speaker_id: 
-- giuseppe-carnevali 
+-speaker_id:
+- giuseppe-carnevali
 - massimiliano-andriola
 	image: massimiliano-andriola.jpg
 	Title: "Legacy code nel db. Dai "Ruspant test" a tSQLt."
@@ -146,7 +116,7 @@ testing (detti anche "ruspant test") e solo alla fine è approdato a
 tSQLt.  Se siete interessati a conoscere quali sono gli ostacoli che il
 nostro team ha dovuto affrontare e superare durante questo percorso,
 allora questa è la presentazione che fa per voi.
-- 
+-
 -
 speaker_id: jihai-zhou
 	image: jihai-zhou.jpg
@@ -168,7 +138,7 @@ combined with the relevant trainings.
 In this presentation, we will share how to integrate DevSecOps tools,
 such as Checkmarx, Contrast and Sonatype IQ into development CICD
 pipeline to produce vulnerability reports through cyber security testing
-and scanning source code and 3rd party libraries. 
+and scanning source code and 3rd party libraries.
 -
 -
 speaker_id: giulia-naponiello
@@ -205,20 +175,7 @@ decades-old ecosystem,  and the principles, practices and solutions
 Wikimedia is now moving towards.
 -
 -
-speaker_id: giulio-vian
-	image: giulio-vian.jpg
-	Title: "Moving a Windows environment to the cloud"
 
-	extract: >
-In this talk, you will hear about the DevOps journey in our
-company, from the initial brown-field all-manual state, to our current
-situation where we migrated (almost) everything to the cloud using
-automation in a few months. Not a migration but rebuilding the
-environment using Infrastructure-as-Code tools: Terraform, Powershell,
-Ansible, TFS/Azure DevOps.  In equilibrium between an high-level view
-and useful practical tips, we will touch on what informed our decisions,
-in terms of priorities and technologies, some lessons learned, and how
-the legacy constraints helped or hindered.
 -
 -
 speaker_id: serhat-can
@@ -367,7 +324,7 @@ IT Operations), i.e. the application of artificial intelligence in IT
 Operations.
 -
 -
-speaker_id: umberto-nicoletti 
+speaker_id: umberto-nicoletti
 	image: umberto-nicoletti.jpg
 	Title: "The curious case of Jupyter notebooks as runbooks"
 
@@ -398,7 +355,7 @@ possible for everyone and we'll demonstrate that with live examples.
 
 -
 -
-speaker_id: 
+speaker_id:
 	- luca-acquaviva
 	- giacomo-fiorini
 	image: luca-acquaviva.jpg
@@ -424,7 +381,7 @@ Gli scogli maggiori spesso non si trovano nelle nuove tecnologie, ma nella
 definizione dei processi adeguati a supportarli.
 -
 -
-speaker_id: 
+speaker_id:
 	- luca-acquaviva
 	- giacomo-fiorini
 	image: giacomo-fiorini.jpg
@@ -468,87 +425,14 @@ sulla differenza di approccio organizzativo tra le attività di
 operation, di supporto tecnico allo sviluppo e di gestione
 dell'infrastruttura, in una azienda europea di ecommerce.
 -
--
-speaker_id: andrea-tosatto
-	image: andrea-tosatto.jpg
-	Title: "Scaling Ansible"
 
-	extract: >
-Ansible agentless nature and semplicity are definitely two of  the
-aspects that determined its incredible success as configuration
-management and automation tool.  However - despite being very powerful -
-agentless automation has some limitations leading very often to the
-increase in complexity of the Ansible code to be able to manage complex
-infrastructures.  In this talk we will deep dive into Ansible execution
-model to discuss some workarounds to effectively implement Ansible as
-configuration management tool at scale without compromising performances
-and/or the readability of the  code.
 -
--
-speaker_id: 
-	- riccardo-capecchi 
-	- giuliano-formato
-	image: riccardo-capecchi.jpg
-	Title: "Big data, not a Big Mess"
 
-	extract: >
-Le metodologie devops sono compatibili con le tematiche Big Data ?
-Vi presenteremo la nostra esperienza in ShopFully, dove abbiamo usato le metodologie devops per semplificare i processi tecnologici del complesso mondo della gestione del dato.
-In particolare parleremo dell’evoluzione della gestione dei dati e del perché questa si sia spostata su cloud, sul come gestire con strumenti moderni quali Cloudformation, Ansible e Terraform le configurazioni dei servizi e delle componenti forniti dal nostro fornitore cloud: AWS.
-I servizi offerti da AWS, con caratteristiche serverless, sono da preferirsi a soluzioni personalizzate sempre su cloud ?  
-Il talk presenterà alcune delle soluzioni architetturali e tecnologiche adottate in azienda per affrontare la tematica Big Data su AWS.
--
--
-speaker_id: 
-	- riccardo-capecchi 
-	- giuliano-formato
-	image: giuliano-formato.jpg
-	Title: "Big data, not a Big Mess"
 
-	extract: >
-Le metodologie devops sono compatibili con le tematiche Big Data ?
-Vi presenteremo la nostra esperienza in ShopFully, dove abbiamo usato le metodologie devops per semplificare i processi tecnologici del complesso mondo della gestione del dato.
-In particolare parleremo dell’evoluzione della gestione dei dati e del perché questa si sia spostata su cloud, sul come gestire con strumenti moderni quali Cloudformation, Ansible e Terraform le configurazioni dei servizi e delle componenti forniti dal nostro fornitore cloud: AWS.
-I servizi offerti da AWS, con caratteristiche serverless, sono da preferirsi a soluzioni personalizzate sempre su cloud ?  
-Il talk presenterà alcune delle soluzioni architetturali e tecnologiche adottate in azienda per affrontare la tematica Big Data su AWS.
 -
 
 -
-speaker_id: niels-devos
-	image: niels-devos.jpg
-	Title: "A Full Stack Journey to Reach Efficient Container Storage Cloning"
-
-	extract: >
-With the adoption of more diverse workloads and applications in
-containers, demands for enhanced features become clear. Some of these
-features are related to the persistent storage of the contents the
-applications consume.
-In this talks, Niels will go through some of the expectations that a
-Kubernetes application like KubeVirt has from a storage environment.
-This includes a scalable approach to cloning new virtual machines from
-template disk images. While just copying the data from one PVC or volume
-to an other is possibly, this is not very efficient.
-This particular journey towards efficiently cloning disk images is
-driven by KubeVirts Containerized-Data-Importer project, with stops at
-Kubernetes Storage Provisioners and Linux kernel filesystems on a solid
-Gluster road.
 -
--
-speaker_id: paolo-tonin
-	image: paolo-tonin.jpg
-	Title: "Scaling Terraform: da Startup a Enterprise"
-
-	extract: >
-Terraform ci permette di creare infrastrutture e gestirne i
-cambiamenti in maniera sicura e predicibile. Questo compito risulta
-semplice quando la tua architettura e il tuo team sono di piccole
-dimensioni.  Ma cosa succede quando l'organizzazione e i gruppi di
-lavoro diventano piu grandi e complessi? A questo punto il problema non
-è piu la dimensione dell'infrastruttura, ma cambiare i flussi di lavoro
-per migliorare la collaborazione all'interno del team e tra i team. 
-Questo talk esplorerà come sia possibile gestire e organizzare
-l'adozione di Terraform fra team eterogenei e garantire al contempo la
-consistenza e la sicurezza dell'infrastruttura.
 -
 -
 speaker_id: pierre-zemb
