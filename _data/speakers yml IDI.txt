@@ -66,15 +66,6 @@ list:
     twitter:
   -
   -
-
-  -
-  -
-
-  -
-  -
-
-  -
-  -
     id: aurelien-hebert
     description:
     image: aurelien-hebert.jpg
@@ -123,28 +114,12 @@ list:
     twitter:
   -
   -
-    id: luca-acquaviva
-    description:
-    image: luca-acquaviva.jpg
-    first_name: Luca
-    last_name: Acquaviva
-    twitter:
   -
   -
-    id: giacomo-fiorini
-    description:
-    image: giacomo-fiorini.jpg
-    first_name: Giacomo
-    last_name: Fiorini
-    twitter:
+
   -
   -
-    id: roberto-bettazzoni
-    description:
-    image: roberto-bettazzoni.jpg
-    first_name: Roberto
-    last_name: Bettazzoni
-    twitter:
+
   -
   -
     id: riccardo-capecchi

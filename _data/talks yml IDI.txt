@@ -53,10 +53,6 @@ the benefits and the technical details of some not-main-stream (at that
 time) decisions we took.
 -
 -
-
--
--
--
 -
 speaker_id: roberto-franchini
 	image: roberto-franchini.jpg
@@ -149,16 +145,6 @@ towards a non-monolithic architecture; we will review the lessons 
 learned while dealing with the  introduction of microservices into a
 decades-old ecosystem,  and the principles, practices and solutions
 Wikimedia is now moving towards.
--
--
-
--
--
--
--
-
--
--
 -
 -
 speaker_id: aurelien-hebert
@@ -284,30 +270,7 @@ possible for everyone and we'll demonstrate that with live examples.
 
 -
 -
-speaker_id:
-	- luca-acquaviva
-	- giacomo-fiorini
-	image: luca-acquaviva.jpg
-	Title: "Le 7 sfide da affrontare nella migrazione da monolite a miniservizi"
 
-	extract: >
-Raccolta di esperienze e sfide vissute sul campo nella migrazione di
-un'applicazione on-line monolitica ad una a “mini-servizi” implementata a
-container e orchestrata da Kubernets (per ora abbiamo deciso di non
-spezzare la base di dati!) . Sono tutti in grado di migrare un monolite
-con un approccio “big-bang”.
-Riteniamo non sia sensato e - soprattutto - estremamente rischioso.
-Da questa esperienza si mostra come sia possibile adottare un percorso
-incrementale che prevede la coesistenza in produzione del monolite con i
-nuovi servizi rifattorizzati, abbassando i rischi delle migrazioni
-tecnologiche.
-Verranno mostrate le strategie, le soluzioni tecniche adottate e gli
-strumenti a supporto per la gestione della coesistenza applicativa e per
-la reattività al cambiamento,attraverso l’automazione del processo di
-refactoring e di testing, e la gestione delle dipendenze con il codice
-applicativo legacy che continua ad evolvere durante la coesistenza.
-Gli scogli maggiori spesso non si trovano nelle nuove tecnologie, ma nella
-definizione dei processi adeguati a supportarli.
 -
 -
 speaker_id:
@@ -337,22 +300,7 @@ definizione dei processi adeguati a supportarli.
 -
 
 -
-speaker_id: roberto-bettazzoni
-	image: roberto-bettazzoni.jpg
 
-	Title: "Team devops: a true story"
-
-	extract: >
-Il percorso, i metodi, le pratiche e le tecnologie devops che ci hanno
-permesso di sviluppare, nel corso di due anni, gli IT departments di
-diverse aziende, in una organizzazione di team. I successi e gli
-[in]evitabili fallimenti intervenuti nel percorso ci premetteranno di
-focalizzare il perché alcune pratiche si siano dimostrate delle
-"vittorie di Pirro", mentre altre, a prima vista fallimentari, abbiano
-portato beneﬁci nel lungo termine. In particolare, ci concentreremo
-sulla differenza di approccio organizzativo tra le attività di
-operation, di supporto tecnico allo sviluppo e di gestione
-dell'infrastruttura, in una azienda europea di ecommerce.
 -
 
 -

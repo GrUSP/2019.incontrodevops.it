@@ -1,7 +1,7 @@
 -
   speaker_id: andrea-tosatto
   image: andrea-tosatto.jpg
-  Title: "Scaling Ansible"
+  title: "Scaling Ansible"
   extract: >
     Ansible agentless nature and semplicity are definitely two of  the
     aspects that determined its incredible success as configuration
@@ -15,7 +15,7 @@
 -
   speaker_id: giovanni-toraldo
   image: giovanni-toraldo.jpg
-  Title: "Introduzione a Traefik"
+  title: "Introduzione a Traefik"
   extract: >
     Scopriamo insieme il load-balancer open-source traefik, con supporto
     nativo alla configurazione dinamica con i più diffusi orchestratori di
@@ -26,7 +26,7 @@
     - riccardo-capecchi
     - giuliano-formato
   image: riccardo-capecchi.jpg
-  Title: "Big data, not a Big Mess"
+  title: "Big data, not a Big Mess"
   extract: >
     Le metodologie devops sono compatibili con le tematiche Big Data?
     Vi presenteremo la nostra esperienza in ShopFully, dove abbiamo usato le metodologie devops per semplificare i processi tecnologici del complesso mondo della gestione del dato.
@@ -36,7 +36,7 @@
 -
   speaker_id: niels-devos
   image: niels-devos.jpg
-  Title: "A Full Stack Journey to Reach Efficient Container Storage Cloning"
+  title: "A Full Stack Journey to Reach Efficient Container Storage Cloning"
   extract: >
     With the adoption of more diverse workloads and applications in
     containers, demands for enhanced features become clear. Some of these
@@ -54,7 +54,7 @@
 -
   speaker_id: giulio-vian
   image: giulio-vian.jpg
-  Title: "Moving a Windows environment to the cloud"
+  title: "Moving a Windows environment to the cloud"
   extract: >
     In this talk, you will hear about the DevOps journey in our
     company, from the initial brown-field all-manual state, to our current
@@ -68,7 +68,7 @@
 -
   speaker_id: lorenzo-fontana
   image: lorenzo-fontana.jpg
-  Title: "eBPF powered Distributed Kubernetes performance analysis"
+  title: "eBPF powered Distributed Kubernetes performance analysis"
   extract: >
     Since the Linux kernel 4.x series a lot of enanchements
     reached mainline to the eBPF ecosystem giving us the capability to do a
@@ -104,7 +104,7 @@
 -
   speaker_id: federico-campoli
   image: federico-campoli.jpg
-  Title: "Ansible & pgbackrest, the dynamic duo"
+  title: "Ansible & pgbackrest, the dynamic duo"
   extract: >
     Ansible is an amazing product used by enterprises to automate their
     tasks. Pgbackrest allows simple and efficient backups of PostgreSQL.
@@ -115,7 +115,7 @@
 -
   speaker_id: giulia-naponiello
   image: giulia-naponiello.jpg
-  Title: "A monitoring solution for a distributed web application"
+  title: "A monitoring solution for a distributed web application"
   extract: >
     Many of our software are Python Flask applications and they work
     exchanging messages through a message bus, but sometimes messages get
@@ -129,7 +129,7 @@
 -
   speaker_id: alessandro-franceschi
   image: alessandro-franceschi.jpg
-  Title: "Ten years of Puppet installations: what now? Lessons learned, sane suggestions, outlook for the future"
+  title: "Ten years of Puppet installations: what now? Lessons learned, sane suggestions, outlook for the future"
   extract: >
     A presentation that outlines the kind of challenges that faces whoever
     has to automate the configuration and the management of an IT
@@ -144,7 +144,7 @@
 -
   speaker_id: serhat-can
   image: serhat-can.png
-  Title: "Managing incidents in microservices"
+  title: "Managing incidents in microservices"
   extract: >
     Microservices solve a lot of problems, especially once the
     company scales. But this change doesn’t just require a change in how we
@@ -160,7 +160,7 @@
 -
   speaker_id: andrea-francia
   image: andrea-francia.jpg
-  Title: "Lavorare con codice legacy non testabile"
+  title: "Lavorare con codice legacy non testabile"
   extract: >
     In questa presentazione farò vedere come affronto il codice
     legacy non testabile. Eseguiro "live" l'esercizio "TripServiceKata" di
@@ -174,3 +174,66 @@
     Ruby devo ancora decidere) ma i pattern che vi farò vedere possono
     essere applicati pari-pari a qualsiasi linguaggio mainstream (C#, Java,
     Python, ...), mentre i principi valgono per qualsiasi tecnnologia.
+-
+  speaker_id: roberto-bettazzoni
+  image: roberto-bettazzoni.jpg
+  title: "Team devops: a true story"
+  extract: >
+    Il percorso, i metodi, le pratiche e le tecnologie devops che ci hanno
+    permesso di sviluppare, nel corso di due anni, gli IT departments di
+    diverse aziende, in una organizzazione di team. I successi e gli
+    [in]evitabili fallimenti intervenuti nel percorso ci premetteranno di
+    focalizzare il perché alcune pratiche si siano dimostrate delle
+    "vittorie di Pirro", mentre altre, a prima vista fallimentari, abbiano
+    portato beneﬁci nel lungo termine. In particolare, ci concentreremo
+    sulla differenza di approccio organizzativo tra le attività di
+    operation, di supporto tecnico allo sviluppo e di gestione
+    dell'infrastruttura, in una azienda europea di ecommerce.
+-
+  speaker_id:
+    - luca-acquaviva
+    - giacomo-fiorini
+  image: giacomo-fiorini.jpg
+  title: "Le 7 sfide da affrontare nella migrazione da monolite a miniservizi"
+  extract: >
+      Raccolta di esperienze e sfide vissute sul campo nella migrazione di
+      un'applicazione on-line monolitica ad una a “mini-servizi” implementata a
+      container e orchestrata da Kubernets (per ora abbiamo deciso di non
+      spezzare la base di dati!) . Sono tutti in grado di migrare un monolite
+      con un approccio “big-bang”.
+      Riteniamo non sia sensato e - soprattutto - estremamente rischioso.
+      Da questa esperienza si mostra come sia possibile adottare un percorso
+      incrementale che prevede la coesistenza in produzione del monolite con i
+      nuovi servizi rifattorizzati, abbassando i rischi delle migrazioni
+      tecnologiche.
+      Verranno mostrate le strategie, le soluzioni tecniche adottate e gli
+      strumenti a supporto per la gestione della coesistenza applicativa e per
+      la reattività al cambiamento,attraverso l’automazione del processo di
+      refactoring e di testing, e la gestione delle dipendenze con il codice
+      applicativo legacy che continua ad evolvere durante la coesistenza.
+      Gli scogli maggiori spesso non si trovano nelle nuove tecnologie, ma nella
+      definizione dei processi adeguati a supportarli.
+-
+  speaker_id:
+    - luca-acquaviva
+    - giacomo-fiorini
+  image: luca-acquaviva.jpg
+  title: "Le 7 sfide da affrontare nella migrazione da monolite a miniservizi"
+  extract: >
+      Raccolta di esperienze e sfide vissute sul campo nella migrazione di
+      un'applicazione on-line monolitica ad una a “mini-servizi” implementata a
+      container e orchestrata da Kubernets (per ora abbiamo deciso di non
+      spezzare la base di dati!) . Sono tutti in grado di migrare un monolite
+      con un approccio “big-bang”.
+      Riteniamo non sia sensato e - soprattutto - estremamente rischioso.
+      Da questa esperienza si mostra come sia possibile adottare un percorso
+      incrementale che prevede la coesistenza in produzione del monolite con i
+      nuovi servizi rifattorizzati, abbassando i rischi delle migrazioni
+      tecnologiche.
+      Verranno mostrate le strategie, le soluzioni tecniche adottate e gli
+      strumenti a supporto per la gestione della coesistenza applicativa e per
+      la reattività al cambiamento,attraverso l’automazione del processo di
+      refactoring e di testing, e la gestione delle dipendenze con il codice
+      applicativo legacy che continua ad evolvere durante la coesistenza.
+      Gli scogli maggiori spesso non si trovano nelle nuove tecnologie, ma nella
+      definizione dei processi adeguati a supportarli.

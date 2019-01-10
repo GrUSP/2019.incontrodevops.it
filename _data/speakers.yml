@@ -86,4 +86,25 @@ list:
     image: andrea-francia.jpg
     first_name: Andrea
     last_name: Francia
+    twitter: andreafrancia
+  -
+    id: roberto-bettazzoni
+    description:
+    image: roberto-bettazzoni.jpg
+    first_name: Roberto
+    last_name: Bettazzoni
+    twitter: bettazzoni
+  -
+    id: giacomo-fiorini
+    description:
+    image: giacomo-fiorini.jpg
+    first_name: Giacomo
+    last_name: Fiorini
+    twitter:
+  -
+    id: luca-acquaviva
+    description:
+    image: luca-acquaviva.jpg
+    first_name: Luca
+    last_name: Acquaviva
     twitter:
