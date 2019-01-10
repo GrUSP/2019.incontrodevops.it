@@ -203,12 +203,7 @@ list:
 
   -
   -
-    id: paolo-tonin
-    description:
-    image: paolo-tonin.jpg
-    first_name: Paolo
-    last_name: Tonin
-    twitter:
+
   -
  -
     id: pierre-zemb
