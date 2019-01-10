@@ -1,0 +1,251 @@
+
+list:
+
+  -
+    id: federico-campoli
+    description:
+    image: federico-campoli.jpg
+    first_name: Federico
+    last_name: Campoli
+    twitter: 
+  -
+  -
+    id: michael-cote
+    description:
+    image: michael-coté.jpg
+    first_name: Michael 
+    last_name: Coté
+    twitter: 
+  -
+  -
+    id: adriano-pezzuto
+    description:
+    image: adriano-pezzuto.jpg
+    first_name: Adriano 	
+    last_name: Pezzuto
+    twitter: 
+  -
+  -
+    id: eduard-iacoboaia
+    description:
+    image: eduard-iacoboaia.jpg
+    first_name: Eduard 
+    last_name: Iacoboaia
+    twitter: 
+  -
+  -
+    id: giovanni-toraldo
+    description:
+    image: giovanni-toraldo.jpg
+    first_name: Giovanni
+    last_name: Toraldo
+    twitter: 
+  -
+  -
+    id: lorenzo-fontana
+    description:
+    image: lorenzo-fontana.jpg
+    first_name: Lorenzo
+    last_name: Fontana
+    twitter: 
+  -
+  -
+    id: roberto-franchini
+    description:
+    image: roberto-franchini.jpg
+    first_name: Roberto
+    last_name: Franchini
+    twitter: 
+  -
+  -
+    id: giuseppe-carnevali 
+    description:
+    image: giuseppe-carnevali.jpg
+    first_name: Giuseppe
+    last_name: Carnevali
+    twitter: 
+  -
+  -
+    id: massimiliano-andriola
+    description:
+    image: massimiliano-andriola.jpg
+    first_name: Massimiliano
+    last_name: Andriola
+    twitter: 
+  -
+  -
+    id: jihai-zhou
+    description:
+    image: jihai-zhou.jpg
+    first_name: Jihai
+    last_name: Zhou
+    twitter: 
+  -
+ -
+    id: giulia-naponiello
+    description:
+    image: giulia-naponiello.jpg
+    first_name: Giulia
+    last_name: Naponiello
+    twitter: 
+  -
+  -
+    id: giuseppe-lavagetto
+    description:
+    image: giuseppe-lavagetto.jpg
+    first_name: Giuseppe
+    last_name: Lavagetto
+    twitter: 
+  -
+  -
+    id: giulio-vian
+    description:
+    image: giulio-vian.jpg
+    first_name: Giulio
+    last_name: Vian
+    twitter: @giulio_vian
+  -
+  -
+    id: serhat-can
+    description:
+    image: serhat-can.jpg
+    first_name: Serhat
+    last_name: Can
+    twitter: 
+  -
+  -
+    id: alessandro-franceschi
+    description:
+    image: alessandro-franceschi.jpg
+    first_name: Alessandro
+    last_name: Franceschi
+    twitter: 
+  -
+  -
+    id: andrea-francia
+    description:
+    image: andrea-francia.jpg
+    first_name: Andrea
+    last_name: Francia
+    twitter: 
+  -
+  -
+    id: aurelien-hebert
+    description:
+    image: aurelien-hebert.jpg
+    first_name: Aurélien
+    last_name: Hebért
+    twitter: 
+  -
+  -
+    id: francesco-gualazzi
+    description:
+    image: francesco-gualazzi.jpg
+    first_name: Francesco
+    last_name: Gualazzi
+    twitter: 
+  -
+  -
+    id: massimo-referre
+    description:
+    image: massimo-referre
+    first_name: Massimo
+    last_name: Re Ferrè
+    twitter: 
+  -
+  -
+    id: daniele-menon
+    description:
+    image: daniele-menon.jpg
+    first_name: Daniele
+    last_name: Menon
+    twitter: 
+  -
+ -
+    id: umberto-nicoletti
+    description:
+    image: umberto-nicoletti.jpg
+    first_name: Umberto
+    last_name: Nicoletti
+    twitter: 
+  -
+  -
+    id: leon-stigter
+    description:
+    image: leon-stigter.jpg
+    first_name: Leon
+    last_name: Stigter
+    twitter: 
+  -
+  -
+    id: luca-acquaviva
+    description:
+    image: luca-acquaviva.jpg
+    first_name: Luca
+    last_name: Acquaviva
+    twitter: 
+  -
+  -
+    id: giacomo-fiorini
+    description:
+    image: giacomo-fiorini.jpg
+    first_name: Giacomo
+    last_name: Fiorini
+    twitter: 
+  -
+  -
+    id: roberto-bettazzoni
+    description:
+    image: roberto-bettazzoni.jpg
+    first_name: Roberto
+    last_name: Bettazzoni
+    twitter: 
+  -
+  -
+    id: andrea-tosatto
+    description:
+    image: andrea-tosatto.jpg
+    first_name: Andrea
+    last_name: Tosatto
+    twitter: 
+  -
+  -
+    id: riccardo-capecchi 
+    description:
+    image: riccardo-capecchi.jpg 
+    first_name: Riccardo
+    last_name: Capecchi
+    twitter: 
+  -
+  -
+    id: giuliano-formato
+    description:
+    image: giuliano-formato.jpg
+    first_name: Giuliano
+    last_name: Formato
+    twitter: 
+  -
+  -
+    id: niels-devos
+    description:
+    image: niels-devos.jpg
+    first_name: Niels 
+    last_name: de Vos
+    twitter: @nixpanic
+  -
+  -
+    id: paolo-tonin
+    description:
+    image: paolo-tonin.jpg
+    first_name: Paolo
+    last_name: Tonin
+    twitter: 
+  -
+ -
+    id: pierre-zemb
+    description:
+    image: pierre-zemb.jpg
+    first_name: Pierre
+    last_name: Zemb
+    twitter: 
+  -
