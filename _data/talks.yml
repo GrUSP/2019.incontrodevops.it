@@ -87,7 +87,6 @@
     performance analysis tool that runs at cluster level without
     performance implications how would you it to be?
 -
-
   speaker_id: paolo-tonin
   image: paolo-tonin.jpg
   title: "Scaling Terraform: da Startup a Enterprise"
@@ -102,3 +101,28 @@
     Questo talk esplorerà come sia possibile gestire e organizzare
     l'adozione di Terraform fra team eterogenei e garantire al contempo la
     consistenza e la sicurezza dell'infrastruttura.
+-
+  speaker_id: federico-campoli
+  image: federico-campoli.jpg
+  Title: "Ansible & pgbackrest, the dynamic duo"
+  extract: >
+    Ansible is an amazing product used by enterprises to automate their
+    tasks. Pgbackrest allows simple and efficient backups of PostgreSQL.
+    Combining the two tools it is possible to setup an environment where the
+    backups are dynamically configured, performed and tested. The audience
+    will learn how to configure two database servers in hot  standby with a
+    backup server and a fourth machine used for testing the  backups.
+-
+  speaker_id: giulia-naponiello
+  image: giulia-naponiello.jpg
+  Title: "A monitoring solution for a distributed web application"
+  extract: >
+    Many of our software are Python Flask applications and they work
+    exchanging messages through a message bus, but sometimes messages get
+    lost or there can be an outage in one of the services.  How can we
+    detect something as complicated as that?  I'd like to share my
+    monitoring solution with you.  We tried several approaches and
+    technologies:
+    * New Relic: synthetic monitors, availability checks and alerting;
+    * Prometheus: custom metrics and integration with Openshift;
+    * Jenkins: production exercises;

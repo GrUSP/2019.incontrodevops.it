@@ -52,3 +52,17 @@ list:
     first_name: Paolo
     last_name: Tonin
     twitter: paolopstonin
+  -
+    id: federico-campoli
+    description:
+    image: federico-campoli.jpg
+    first_name: Federico
+    last_name: Campoli
+    twitter: 4thdoctor_scarf ‏
+  -
+    id: giulia-naponiello
+    description:
+    image: giulia-naponiello.jpg
+    first_name: Giulia
+    last_name: Naponiello
+    twitter:

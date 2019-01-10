@@ -1,14 +1,5 @@
 
 list:
-
-  -
-    id: federico-campoli
-    description:
-    image: federico-campoli.jpg
-    first_name: Federico
-    last_name: Campoli
-    twitter:
-  -
   -
     id: michael-cote
     description:
@@ -32,11 +23,6 @@ list:
     first_name: Eduard
     last_name: Iacoboaia
     twitter:
-  -
-  -
-
-  -
-  -
 
   -
   -
@@ -72,23 +58,12 @@ list:
     twitter:
   -
  -
-    id: giulia-naponiello
-    description:
-    image: giulia-naponiello.jpg
-    first_name: Giulia
-    last_name: Naponiello
-    twitter:
-  -
-  -
     id: giuseppe-lavagetto
     description:
     image: giuseppe-lavagetto.jpg
     first_name: Giuseppe
     last_name: Lavagetto
     twitter:
-  -
-  -
-
   -
   -
     id: serhat-can
@@ -186,8 +161,6 @@ list:
     last_name: Bettazzoni
     twitter:
   -
-
-  -
   -
     id: riccardo-capecchi
     description:
@@ -195,15 +168,6 @@ list:
     first_name: Riccardo
     last_name: Capecchi
     twitter:
-  -
-  -
-
-  -
-  -
-
-  -
-  -
-
   -
  -
     id: pierre-zemb
