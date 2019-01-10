@@ -1,6 +1,5 @@
 -
   speaker_id: andrea-tosatto
-  image: andrea-tosatto.jpg
   title: "Scaling Ansible"
   extract: >
     Ansible agentless nature and semplicity are definitely two of  the
@@ -14,7 +13,6 @@
     and/or the readability of the  code.
 -
   speaker_id: giovanni-toraldo
-  image: giovanni-toraldo.jpg
   title: "Introduzione a Traefik"
   extract: >
     Scopriamo insieme il load-balancer open-source traefik, con supporto
@@ -23,9 +21,8 @@
     d'uso reale.
 -
   speaker_id:
-    - riccardo-capecchi
     - giuliano-formato
-  image: riccardo-capecchi.jpg
+    - riccardo-capecchi
   title: "Big data, not a Big Mess"
   extract: >
     Le metodologie devops sono compatibili con le tematiche Big Data?
@@ -35,7 +32,6 @@
     Il talk presenterà alcune delle soluzioni architetturali e tecnologiche adottate in azienda per affrontare la tematica Big Data su AWS.
 -
   speaker_id: niels-devos
-  image: niels-devos.jpg
   title: "A Full Stack Journey to Reach Efficient Container Storage Cloning"
   extract: >
     With the adoption of more diverse workloads and applications in
@@ -53,7 +49,6 @@
     Gluster road.
 -
   speaker_id: giulio-vian
-  image: giulio-vian.jpg
   title: "Moving a Windows environment to the cloud"
   extract: >
     In this talk, you will hear about the DevOps journey in our
@@ -67,7 +62,6 @@
     the legacy constraints helped or hindered.
 -
   speaker_id: lorenzo-fontana
-  image: lorenzo-fontana.jpg
   title: "eBPF powered Distributed Kubernetes performance analysis"
   extract: >
     Since the Linux kernel 4.x series a lot of enanchements
@@ -88,7 +82,6 @@
     performance implications how would you it to be?
 -
   speaker_id: paolo-tonin
-  image: paolo-tonin.jpg
   title: "Scaling Terraform: da Startup a Enterprise"
   extract: >
     Terraform ci permette di creare infrastrutture e gestirne i
@@ -103,7 +96,6 @@
     consistenza e la sicurezza dell'infrastruttura.
 -
   speaker_id: federico-campoli
-  image: federico-campoli.jpg
   title: "Ansible & pgbackrest, the dynamic duo"
   extract: >
     Ansible is an amazing product used by enterprises to automate their
@@ -114,7 +106,6 @@
     backup server and a fourth machine used for testing the  backups.
 -
   speaker_id: giulia-naponiello
-  image: giulia-naponiello.jpg
   title: "A monitoring solution for a distributed web application"
   extract: >
     Many of our software are Python Flask applications and they work
@@ -128,7 +119,6 @@
     * Jenkins: production exercises;
 -
   speaker_id: alessandro-franceschi
-  image: alessandro-franceschi.jpg
   title: "Ten years of Puppet installations: what now? Lessons learned, sane suggestions, outlook for the future"
   extract: >
     A presentation that outlines the kind of challenges that faces whoever
@@ -143,7 +133,6 @@
     focus on principles valid to any automation challenge
 -
   speaker_id: serhat-can
-  image: serhat-can.png
   title: "Managing incidents in microservices"
   extract: >
     Microservices solve a lot of problems, especially once the
@@ -159,7 +148,6 @@
     real-world problems.
 -
   speaker_id: andrea-francia
-  image: andrea-francia.jpg
   title: "Lavorare con codice legacy non testabile"
   extract: >
     In questa presentazione farò vedere come affronto il codice
@@ -176,7 +164,6 @@
     Python, ...), mentre i principi valgono per qualsiasi tecnnologia.
 -
   speaker_id: roberto-bettazzoni
-  image: roberto-bettazzoni.jpg
   title: "Team devops: a true story"
   extract: >
     Il percorso, i metodi, le pratiche e le tecnologie devops che ci hanno
@@ -193,31 +180,6 @@
   speaker_id:
     - luca-acquaviva
     - giacomo-fiorini
-  image: giacomo-fiorini.jpg
-  title: "Le 7 sfide da affrontare nella migrazione da monolite a miniservizi"
-  extract: >
-      Raccolta di esperienze e sfide vissute sul campo nella migrazione di
-      un'applicazione on-line monolitica ad una a “mini-servizi” implementata a
-      container e orchestrata da Kubernets (per ora abbiamo deciso di non
-      spezzare la base di dati!) . Sono tutti in grado di migrare un monolite
-      con un approccio “big-bang”.
-      Riteniamo non sia sensato e - soprattutto - estremamente rischioso.
-      Da questa esperienza si mostra come sia possibile adottare un percorso
-      incrementale che prevede la coesistenza in produzione del monolite con i
-      nuovi servizi rifattorizzati, abbassando i rischi delle migrazioni
-      tecnologiche.
-      Verranno mostrate le strategie, le soluzioni tecniche adottate e gli
-      strumenti a supporto per la gestione della coesistenza applicativa e per
-      la reattività al cambiamento,attraverso l’automazione del processo di
-      refactoring e di testing, e la gestione delle dipendenze con il codice
-      applicativo legacy che continua ad evolvere durante la coesistenza.
-      Gli scogli maggiori spesso non si trovano nelle nuove tecnologie, ma nella
-      definizione dei processi adeguati a supportarli.
--
-  speaker_id:
-    - luca-acquaviva
-    - giacomo-fiorini
-  image: luca-acquaviva.jpg
   title: "Le 7 sfide da affrontare nella migrazione da monolite a miniservizi"
   extract: >
       Raccolta di esperienze e sfide vissute sul campo nella migrazione di
