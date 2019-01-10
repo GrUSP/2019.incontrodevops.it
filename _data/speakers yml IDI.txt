@@ -66,28 +66,13 @@ list:
     twitter:
   -
   -
-    id: serhat-can
-    description:
-    image: serhat-can.jpg
-    first_name: Serhat
-    last_name: Can
-    twitter:
+
   -
   -
-    id: alessandro-franceschi
-    description:
-    image: alessandro-franceschi.jpg
-    first_name: Alessandro
-    last_name: Franceschi
-    twitter:
+
   -
   -
-    id: andrea-francia
-    description:
-    image: andrea-francia.jpg
-    first_name: Andrea
-    last_name: Francia
-    twitter:
+
   -
   -
     id: aurelien-hebert
