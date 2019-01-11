@@ -31,7 +31,7 @@ list:
     image: roberto-franchini.jpg
     first_name: Roberto
     last_name: Franchini
-    twitter:
+    twitter: robfrankie
   -
   -
     id: giuseppe-carnevali
