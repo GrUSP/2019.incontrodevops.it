@@ -114,14 +114,6 @@ list:
     twitter:
   -
   -
-  -
-  -
-
-  -
-  -
-
-  -
-  -
     id: riccardo-capecchi
     description:
     image: riccardo-capecchi.jpg

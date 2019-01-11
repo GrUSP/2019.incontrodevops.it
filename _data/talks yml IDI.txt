@@ -1,7 +1,4 @@
 -
-
-
--
 speaker_id: michael-cote
 	image: michael-coté.jpg
 	Title: "Putting the Dev back into DevOps, or, creating better software"
@@ -51,8 +48,7 @@ decided to migrate to a vanilla Kubernetes setup and during this phase
 we had to take some hard decisions. This talk will explain the reasons,
 the benefits and the technical details of some not-main-stream (at that
 time) decisions we took.
--
--
+
 -
 speaker_id: roberto-franchini
 	image: roberto-franchini.jpg
@@ -124,9 +120,6 @@ In this presentation, we will share how to integrate DevSecOps tools,
 such as Checkmarx, Contrast and Sonatype IQ into development CICD
 pipeline to produce vulnerability reports through cyber security testing
 and scanning source code and 3rd party libraries.
--
--
-
 -
 -
 speaker_id: giuseppe-lavagetto
@@ -297,19 +290,6 @@ refactoring e di testing, e la gestione delle dipendenze con il codice
 applicativo legacy che continua ad evolvere durante la coesistenza.
 Gli scogli maggiori spesso non si trovano nelle nuove tecnologie, ma nella
 definizione dei processi adeguati a supportarli.
--
-
--
-
--
-
--
-
-
--
-
--
--
 -
 -
 speaker_id: pierre-zemb
