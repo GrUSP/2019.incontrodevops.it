@@ -199,3 +199,17 @@
       applicativo legacy che continua ad evolvere durante la coesistenza.
       Gli scogli maggiori spesso non si trovano nelle nuove tecnologie, ma nella
       definizione dei processi adeguati a supportarli.
+-
+  speaker_id: roberto-franchini
+  image: roberto-franchini.jpg
+  title: "Testcontainers to the rescue"
+  extract: >
+    Integration testing is hard, and often teams are tempted to do it in
+    production.  Testcontainers allows writing meaningful integration tests
+    spawning Docker containers for databases, queue systems, kv-store or
+    even a complete micro-services infrastructure.  Don't mock your database
+    with fake data anymore, work with real data!  Notes: The talk will show
+    how we used testcontainers (https://www.testcontainers.org/) to test all
+    our connectors to different data stores. It will show different uses of
+    the library, tricks and advice to create a reliable test
+    infrastructure. 

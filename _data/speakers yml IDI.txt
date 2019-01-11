@@ -16,22 +16,7 @@ list:
     last_name: Pezzuto
     twitter:
   -
-  -
-    id: eduard-iacoboaia
-    description:
-    image: eduard-iacoboaia.jpg
-    first_name: Eduard
-    last_name: Iacoboaia
-    twitter:
 
-  -
-  -
-    id: roberto-franchini
-    description:
-    image: roberto-franchini.jpg
-    first_name: Roberto
-    last_name: Franchini
-    twitter:
   -
   -
     id: giuseppe-carnevali
@@ -113,13 +98,7 @@ list:
     last_name: Stigter
     twitter:
   -
-  -
-    id: riccardo-capecchi
-    description:
-    image: riccardo-capecchi.jpg
-    first_name: Riccardo
-    last_name: Capecchi
-    twitter:
+
   -
  -
     id: pierre-zemb

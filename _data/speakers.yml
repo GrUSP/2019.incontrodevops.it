@@ -1,43 +1,8 @@
 # place images in:
 # img/conf-name/speaker/file.jpg
-call_for_paper_url: mailto:info@incontrodevops.it
+call_for_paper_url: "mailto:info@incontrodevops.it"
 call_for_paper: false
 list:
-  -
-    id: andrea-tosatto
-    description:
-    image: andrea-tosatto.jpg
-    first_name: Andrea
-    last_name: Tosatto
-    twitter: _hilbert_
-  -
-    id: giovanni-toraldo
-    description:
-    image: giovanni-toraldo.jpg
-    first_name: Giovanni
-    last_name: Toraldo
-    twitter: gionn
-  -
-    id: giuliano-formato
-    description:
-    image: giuliano-formato.jpg
-    first_name: Giuliano
-    last_name: Formato
-    twitter: giulianoformato ‏
-  -
-    id: giulio-vian
-    description:
-    image: giulio-vian.jpg
-    first_name: Giulio
-    last_name: Vian
-    twitter: giulio_vian
-  -
-    id: lorenzo-fontana
-    description:
-    image: lorenzo-fontana.jpg
-    first_name: Lorenzo
-    last_name: Fontana
-    twitter: fntlnz ‏
   -
     id: niels-devos
     description:
@@ -107,4 +72,53 @@ list:
     image: luca-acquaviva.jpg
     first_name: Luca
     last_name: Acquaviva
+    twitter:
+  -
+    id: roberto-franchini
+    description:
+    image: roberto-franchini.jpg
+    first_name: Roberto
+    last_name: Franchini
+    twitter: robfrankie
+  -
+    id: andrea-tosatto
+    description:
+    image: andrea-tosatto.jpg
+    first_name: Andrea
+    last_name: Tosatto
+    twitter: _hilbert_
+  -
+    id: giovanni-toraldo
+    description:
+    image: giovanni-toraldo.jpg
+    first_name: Giovanni
+    last_name: Toraldo
+    twitter: gionn
+  -
+    id: giuliano-formato
+    description:
+    image: giuliano-formato.jpg
+    first_name: Giuliano
+    last_name: Formato
+    twitter: giulianoformato
+  -
+    id: giulio-vian
+    description:
+    image: giulio-vian.jpg
+    first_name: Giulio
+    last_name: Vian
+    twitter: giulio_vian
+  -
+    id: lorenzo-fontana
+    description:
+    image: lorenzo-fontana.jpg
+    first_name: Lorenzo
+    last_name: Fontana
+    twitter: fntlnz ‏
+  -
+    id: riccardo-capecchi
+    description:
+    image: riccardo-capecchi.png
+    first_name: Riccardo
+    last_name: Capecchi
     twitter:
