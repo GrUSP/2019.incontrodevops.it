@@ -41,19 +41,6 @@ modificare in modo rapido e semplice il comportamento del proprio
 cluster.
 -
 -
-speaker_id: eduard-iacoboaia
-	image: eduard-iacoboaia.jpg
-	Title: "Reasons and benefits for a custom Kubernetes setup"
-
-	extract: >
- After almost a year of running Openshift Origin we
-decided to migrate to a vanilla Kubernetes setup and during this phase
-we had to take some hard decisions. This talk will explain the reasons,
-the benefits and the technical details of some not-main-stream (at that
-time) decisions we took.
--
--
--
 speaker_id: roberto-franchini
 	image: roberto-franchini.jpg
 	Title: "Testcontainers to the rescue"
