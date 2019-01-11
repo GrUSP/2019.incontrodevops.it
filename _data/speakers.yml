@@ -23,7 +23,14 @@ list:
     image: giuliano-formato.jpg
     first_name: Giuliano
     last_name: Formato
-    twitter: giulianoformato ‏
+    twitter: giulianoformato
+   -
+    id: riccardo-capecchi
+    description:
+    image: riccardo-capecchi.png
+    first_name: Riccardo
+    last_name: Capecchi
+    twitter:
   -
     id: giulio-vian
     description:
