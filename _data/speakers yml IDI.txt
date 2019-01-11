@@ -104,21 +104,7 @@ list:
     last_name: Stigter
     twitter:
   -
-  -
-  -
-  -
 
-  -
-  -
-
-  -
-  -
-    id: riccardo-capecchi
-    description:
-    image: riccardo-capecchi.jpg
-    first_name: Riccardo
-    last_name: Capecchi
-    twitter:
   -
  -
     id: pierre-zemb
