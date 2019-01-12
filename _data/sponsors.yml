@@ -48,7 +48,7 @@ platinum:
     - Bring your own gadgets (flyers, stickers, t-shirts)
     - 1 free ticket
     - 5 tickets with 15% discount
-  max: 4
+  max: 8
   list:
     -
       url: https://www.ideato.it/?utm_source=idi2019
@@ -71,7 +71,7 @@ gold:
     - Your own rollup in the conference room
     - Bring your own gadgets (flyers, stickers, t-shirts)
     - 3 tickets with 15% discount
-  max: 8
+  max: 16
   list:
     -
       url: https://www.kiratech.it
@@ -84,7 +84,7 @@ silver:
     - Your logo on conference rollups
     - Bring your own gadgets (flyers, stickers, t-shirts)
     - 3 tickets with 10% discount
-  max: 16
+  max: 32
   list:
     -
       url: https://labs.madisoft.it/?utm_source=idi2019
@@ -101,5 +101,5 @@ bronze:
     - Your logo in pre-event communications
     - Your logo on conference website
     - 2 tickets with 10% discount
-  max: 32
+  max: 64
   list:
