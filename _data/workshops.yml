@@ -100,3 +100,47 @@ list:
       Alla fine del corso ogni partecipante saprà gestire applicazioni su Kubernetes e avrà sperimentato, con un approccio hands-on, le features di Kubernetes utili per gestire applicazioni in produzione.
     useful_info: |
        La durata del corso è di una giornata e si terrà il 7 Marzo (il giorno prima della conferenza). È responsabilità del partecipante arrivare con portatile configurato e funzionante. Qualche giorno prima del corso verranno fornite ulteriori istruzioni per configurare ed installare le applicazioni necessarie.
+
+
+  -
+    slug: corso-docker
+    title: Workshop Introduttivo Docker & Kubernetes in italiano
+    when: 7 Marzo 2019, Bologna
+    where: Hotel Savoia Regency, Via del Pilasto 2, 40127, Bologna BO
+    map: https://goo.gl/maps/pT6toDSe3Em
+    ticket: https://www.eventbrite.it/e/biglietti-workshop-introduzione-a-docker-kubernetes-presso-incontro-devops-italia-2019-54135159720
+    partner:
+      name: Kiratech
+      link: https://www.kiratech.it
+    teacher:
+      -
+        name: Francesco Tornieri
+        picture:
+        bio: Docker expert
+        link:
+    intro: |
+      "Il workshop introdurrà l'utilizzo delle due tecnologie Docker & Kubernetes per la gestione di un'infrastruttura containerizzata e per la relativa orchestrazione e verrà tenuto da Francesco Tornieri, Docker Trainer e DevOps Expert at Kiratech.
+      Docker è un progetto open source che automatizza il deployment di applicazioni all'intero di Container software, fornendo un'astrazione addizionale grazie alla virtualizzazione a livello di sistema operativo. Docker utilizza le funzionalità di isolamento delle risorse del kernel Linux come ad esempio cgroups e namespaces per consentire a "container" indipendenti di coesistere sulla stessa istanza, evitando l'installazione e la manutenzione di una macchina virtuale."
+    program: |
+      Scaletta corso:
+      Docker:
+        - Volumes
+        - Manage volume in a cloud environment
+        - Networking
+        - Clustering and orchestrator: intro to swarm
+        - Manage complex architecture: intro to docker compose
+
+      Kubernetes:
+        - Intro to Kubernetes
+        - Kubernetes Architecture
+        - CNI vs CNM
+        - Pod vs Container
+        - Scheduler
+        - Services
+        - Replication Controller
+        - Volume
+
+    addressed_info: |
+      "È richiesta familiarità con gli ambienti UN*X sia per quanto concerne i concetti di funzionamento (servizi, permessi, filesystem, ...) sia per l'utilizzo dell'ambiente a riga di comando. E' richiesta una buona comprensione della parte Docker. E' necessario avere una ambiente VM con docker già preinstallato (fare riferimento all docs ufficiale per avere maggiori informazioni in merito https://docs.docker.com/engine/installation/#server-). Verrà utilizzata la versione Docker CE. Minikube sarà installato sul computer del docente."
+    useful_info: |
+      La durata del corso è di una giornata e si terrà il 7 Marzo (il giorno prima della conferenza). È responsabilità del partecipante arrivare con portatile configurato e funzionante. Qualche giorno prima del corso verranno fornite ulteriori istruzioni per configurare ed installare le applicazioni necessarie.<br> Il BIGLIETTO PER IL WORKSHOP NON INCLUDE IL TICKET PER LA CONFERENZA INCONTRO DEVOPS ITALIA 2019, CHE POTRA' ESSERE ACQUISTATO SEPARATAMENTE AL SEGUNTE LINK: https://2019.incontrodevops.it/. La responsabilità sulla gestione, esecuzione, fatturazione e rimborsi relativi al workshop è di totale responsabilità di Kiratech Spa.
