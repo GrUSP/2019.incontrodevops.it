@@ -1,20 +1,10 @@
 
 list:
   -
-    id: michael-cote
-    description:
-    image: michael-coté.jpg
-    first_name: Michael
-    last_name: Coté
-    twitter:
+
   -
   -
-    id: adriano-pezzuto
-    description:
-    image: adriano-pezzuto.jpg
-    first_name: Adriano
-    last_name: Pezzuto
-    twitter:
+
   -
 
   -
@@ -67,10 +57,4 @@ list:
 
   -
  -
-    id: pierre-zemb
-    description:
-    image: pierre-zemb.jpg
-    first_name: Pierre
-    last_name: Zemb
-    twitter:
   -

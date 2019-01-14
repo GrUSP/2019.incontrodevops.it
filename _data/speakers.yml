@@ -157,10 +157,31 @@ list:
     first_name: Jihai
     last_name: Zhou
     twitter:
-  -    
-   id: umberto-nicoletti
-   description:
-   image: umberto-nicoletti.jpg
-   first_name: Umberto
-   last_name: Nicoletti
-   twitter:
+  -
+    id: umberto-nicoletti
+    description:
+    image: umberto-nicoletti.jpg
+    first_name: Umberto
+    last_name: Nicoletti
+    twitter:
+  -
+    id: adriano-pezzuto
+    description:
+    image: adriano-pezzuto.jpg
+    first_name: Adriano
+    last_name: Pezzuto
+    twitter:
+  -
+    id: michael-cote
+    description:
+    image: michael-cote.jpg
+    first_name: Michael
+    last_name: Coté
+    twitter:
+  -
+    id: pierre-zemb
+    description:
+    image: pierre-zemb.jpg
+    first_name: Pierre
+    last_name: Zemb
+    twitter:
