@@ -46,7 +46,7 @@ list:
     image: leon-stigter.jpg
     first_name: Leon
     last_name: Stigter
-    twitter:
+    twitter: LeonStigter
   -
 
   -
