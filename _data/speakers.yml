@@ -128,7 +128,7 @@ list:
     image: aurelien-hebert.png
     first_name: Aurélien
     last_name: Hebért
-    twitter:
+    twitter: AurrelH95
   -
     id: daniele-menon
     description:
@@ -142,7 +142,7 @@ list:
     image: francesco-gualazzi.jpg
     first_name: Francesco
     last_name: Gualazzi
-    twitter:
+    twitter: inge4pres
   -
     id: giuseppe-lavagetto
     description:
@@ -163,7 +163,7 @@ list:
     image: umberto-nicoletti.jpg
     first_name: Umberto
     last_name: Nicoletti
-    twitter:
+    twitter: AFactotum
   -
     id: adriano-pezzuto
     description:
@@ -177,11 +177,11 @@ list:
     image: michael-cote.jpg
     first_name: Michael
     last_name: Coté
-    twitter:
+    twitter: cote
   -
     id: pierre-zemb
     description:
     image: pierre-zemb.jpg
     first_name: Pierre
     last_name: Zemb
-    twitter:
+    twitter: PierreZ
