@@ -23,7 +23,7 @@ list:
     image: federico-campoli.jpg
     first_name: Federico
     last_name: Campoli
-    twitter: 4thdoctor_scarf ‏
+    twitter: 4thdoctor_scarf
   -
     id: giulia-naponiello
     description:
@@ -114,7 +114,7 @@ list:
     image: lorenzo-fontana.jpg
     first_name: Lorenzo
     last_name: Fontana
-    twitter: fntlnz ‏
+    twitter: fntlnz
   -
     id: riccardo-capecchi
     description:
