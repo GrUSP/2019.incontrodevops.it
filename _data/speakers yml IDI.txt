@@ -35,36 +35,13 @@ list:
     twitter:
   -
   -
-    id: jihai-zhou
-    description:
-    image: jihai-zhou.jpg
-    first_name: Jihai
-    last_name: Zhou
-    twitter:
   -
  -
-    id: giuseppe-lavagetto
-    description:
-    image: giuseppe-lavagetto.jpg
-    first_name: Giuseppe
-    last_name: Lavagetto
-    twitter:
   -
   -
-    id: aurelien-hebert
-    description:
-    image: aurelien-hebert.jpg
-    first_name: Aurélien
-    last_name: Hebért
-    twitter:
+
   -
   -
-    id: francesco-gualazzi
-    description:
-    image: francesco-gualazzi.jpg
-    first_name: Francesco
-    last_name: Gualazzi
-    twitter:
   -
   -
     id: massimo-referre
@@ -75,20 +52,9 @@ list:
     twitter:
   -
   -
-    id: daniele-menon
-    description:
-    image: daniele-menon.jpg
-    first_name: Daniele
-    last_name: Menon
-    twitter:
+
   -
  -
-    id: umberto-nicoletti
-    description:
-    image: umberto-nicoletti.jpg
-    first_name: Umberto
-    last_name: Nicoletti
-    twitter:
   -
   -
     id: leon-stigter
