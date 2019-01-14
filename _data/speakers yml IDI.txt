@@ -34,12 +34,6 @@ list:
   -
   -
   -
-    id: massimo-referre
-    description:
-    image: massimo-referre
-    first_name: Massimo
-    last_name: Re Ferrè
-    twitter:
   -
   -
 

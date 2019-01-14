@@ -373,3 +373,15 @@
     working on OVH managed Kubernetes product and one working on Metrics,
     OVH distributed monitoring platform. Are you ready to talk with us about
     this technical and organisational context? We, more than ever!
+-
+  speaker_id: massimo-referre
+  title: "End-to-end CI/CD deployments of a containerized application using AWS
+  services."
+  extract: >
+    In this session we will discuss and demonstrate the technology and
+    operational patterns involved in deploying a containerized application
+    on the AWS platform. We will focus on the Code* suite of tools as well
+    as the AWS container orchestration capabilities available on the
+    platform. We will demonstrate how to build a deployment pipeline using
+    AWS CodePipeline and how to configure blue/green deployments using AWS
+    CodeDeploy.
