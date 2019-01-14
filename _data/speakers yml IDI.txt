@@ -1,13 +1,6 @@
 
 list:
   -
-
-  -
-  -
-
-  -
-
-  -
   -
     id: giuseppe-carnevali
     description:
@@ -23,32 +16,4 @@ list:
     first_name: Massimiliano
     last_name: Andriola
     twitter:
-  -
-  -
-  -
- -
-  -
-  -
-
-  -
-  -
-  -
-  -
-  -
-  -
-
-  -
- -
-  -
-  -
-    id: leon-stigter
-    description:
-    image: leon-stigter.jpg
-    first_name: Leon
-    last_name: Stigter
-    twitter: LeonStigter
-  -
-
-  -
- -
   -

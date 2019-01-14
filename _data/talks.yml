@@ -385,3 +385,13 @@
     platform. We will demonstrate how to build a deployment pipeline using
     AWS CodePipeline and how to configure blue/green deployments using AWS
     CodeDeploy.
+-
+  speaker_id: leon-stigter
+  Title: "DevOps in the Cloud: A Story of Three S's"
+  extract: >
+    In many DevOps talks, you see a speaker from the most amazing companies
+    stand up and describe the perfect world of DevOps. Your environment looks
+    nothing like that and with the digital transformation that companies are
+    undertaking these days (and the awesome buzzwords that accompany it), you
+    feel you're getting behind even further. Fear not, DevOps in the Cloud is
+    possible for everyone and we'll demonstrate that with live examples.
