@@ -36,6 +36,9 @@ diamond:
     - 5 tickets with 20% discount
   max: 2
   list:
+    -
+      url: https://www.f5.com/
+      image: f5.svg
 
 platinum:
   price: € 3,000
