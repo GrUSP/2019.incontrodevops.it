@@ -387,7 +387,7 @@
     CodeDeploy.
 -
   speaker_id: leon-stigter
-  Title: "DevOps in the Cloud: A Story of Three S's"
+  title: "DevOps in the Cloud: A Story of Three S's"
   extract: >
     In many DevOps talks, you see a speaker from the most amazing companies
     stand up and describe the perfect world of DevOps. Your environment looks
@@ -395,3 +395,17 @@
     undertaking these days (and the awesome buzzwords that accompany it), you
     feel you're getting behind even further. Fear not, DevOps in the Cloud is
     possible for everyone and we'll demonstrate that with live examples.
+-
+  speaker_id:
+    - giuseppe-carnevali
+    - massimiliano-andriola
+  title: "Legacy code nel db. Dai "Ruspant test" a tSQLt."
+  extract: >
+    tSQLt è un ottimo framework di Unit Test per testare unitariamente la
+    logica che è finita nel database.  Ma prima di approdare a tSQLt il
+    nostro team ha intrapreso un percorso che è iniziato da un db pieno di
+    logica e senza controllo, è passato attraverso i primi tentativi di
+    testing (detti anche "ruspant test") e solo alla fine è approdato a
+    tSQLt.  Se siete interessati a conoscere quali sono gli ostacoli che il
+    nostro team ha dovuto affrontare e superare durante questo percorso,
+    allora questa è la presentazione che fa per voi.

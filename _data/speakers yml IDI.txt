@@ -1,13 +1,7 @@
 
 list:
   -
-  -
-    id: giuseppe-carnevali
-    description:
-    image: giuseppe-carnevali.jpg
-    first_name: Giuseppe
-    last_name: Carnevali
-    twitter:
+
   -
   -
     id: massimiliano-andriola

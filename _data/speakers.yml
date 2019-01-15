@@ -199,3 +199,10 @@ list:
     first_name: Leon
     last_name: Stigter
     twitter: LeonStigter
+  -
+    id: giuseppe-carnevali
+    description:
+    image: giuseppe-carnevali.jpg
+    first_name: Giuseppe
+    last_name: Carnevali
+    twitter:    

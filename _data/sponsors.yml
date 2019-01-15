@@ -65,6 +65,9 @@ platinum:
     -
       url: https:///www.suse.com/?utm_source=idi2019
       image: suse.svg
+    -
+      url: https://newrelic.com/?utm_source=idi2019
+      image: newrelic.svg
 gold:
   price: € 1,500
   offer:
