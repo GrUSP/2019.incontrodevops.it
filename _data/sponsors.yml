@@ -80,8 +80,11 @@ gold:
   max: 16
   list:
     -
-      url: https://www.kiratech.it
+      url: https://www.kiratech.it?utm_source=idi2019
       image: kiratech.svg
+    -
+      url: https://www.lpi.org/it/?utm_source=idi2019
+      image: lpi.svg
 silver:
   price: € 750
   offer:
