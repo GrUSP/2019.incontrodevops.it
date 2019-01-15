@@ -399,7 +399,7 @@
   speaker_id:
     - giuseppe-carnevali
     - massimiliano-andriola
-  title: "Legacy code nel db. Dai "Ruspant test" a tSQLt."
+  title: "Legacy code nel db. Dai 'Ruspant test' a tSQLt."
   extract: >
     tSQLt è un ottimo framework di Unit Test per testare unitariamente la
     logica che è finita nel database.  Ma prima di approdare a tSQLt il
