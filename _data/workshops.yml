@@ -68,7 +68,7 @@ list:
       È responsabilità del partecipante arrivare con portatile configurato e funzionante con Vagrant. Vi daremo tutte le indicazioni utili per la configurazione.
   -
     slug: corso-kubernetes
-    title: Operating applications on Kubernetes
+    title: Operare Ambienti di Produzione su Kubernetes
     when: 7 Marzo 2019, Bologna
     where: Hotel Savoia Regency, Via del Pilasto 2, 40127, Bologna BO
     map: https://goo.gl/maps/pT6toDSe3Em
