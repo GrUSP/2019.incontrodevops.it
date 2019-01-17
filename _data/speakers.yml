@@ -205,4 +205,16 @@ list:
     image: giuseppe-carnevali.jpg
     first_name: Giuseppe
     last_name: Carnevali
-    twitter:    
+    twitter:
+  -
+    id: simone-piunno
+    image: simone-piunno.jpg
+    first_name: Simone
+    last_name: Piunno
+    twitter: spiunno
+  -
+    id: paolo-derosa
+    image: paolo-derosa.jpg
+    first_name: Paolo
+    last_name: de Rosa
+    twitter: paolo_de_rosa

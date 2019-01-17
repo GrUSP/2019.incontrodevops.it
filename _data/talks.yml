@@ -409,3 +409,22 @@
     tSQLt.  Se siete interessati a conoscere quali sono gli ostacoli che il
     nostro team ha dovuto affrontare e superare durante questo percorso,
     allora questa è la presentazione che fa per voi.
+-
+  speaker_id:
+    - paolo-derosa
+    - simone-piunno
+  title: "Cloud from outer space Cronache di un sistema in trasformazione"
+  extract: >
+    Con il nuovo Piano Triennale 2019-2021 è stata ufficialmente avviata la strategia
+    Cloud First della PA che permetterà di sviluppare servizi digitali più affidabili
+    e sicuri ad un costo ridotto e che, soprattutto, consentirà il rinnovamento
+    complessivo dei servizi digitali nel Paese. Questo nuovo scenario apre questioni
+    degne di interesse. Quali sono le sfide che tecnici e manager della PA dovranno
+    affrontare? Come gli altri Paesi hanno affrontato tali sfide?
+    Quale ruolo potrà assumere la comunità tecnica DevOps nella PA?
+    Quali opportunità si apriranno per i fornitori ICT delle pubbliche
+    amministrazioni?  Nei primi mesi del 2019 alcune amministrazioni coraggiose
+    insieme al Team Digitale hanno iniziato ad analizzare le principali sfide
+    tecnologiche che la PA deve affrontare per migrare i propri servizi in cloud
+    dando il via allo sviluppo del Piano di abilitazione nazionale al Cloud per la PA.
+    Proviamo a gettare uno sguardo in questa direzione.

@@ -84,7 +84,7 @@ gold:
       image: kiratech.svg
     -
       url: https://www.lpi.org/it/?utm_source=idi2019
-      image: lpi.svg
+      image: lpi.svg  
 silver:
   price: € 750
   offer:
