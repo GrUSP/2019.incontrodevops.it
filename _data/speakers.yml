@@ -65,7 +65,7 @@ list:
     image: giacomo-fiorini.jpg
     first_name: Giacomo
     last_name: Fiorini
-    twitter:
+    twitter: GiacomoFiorini
   -
     id: luca-acquaviva
     description:
