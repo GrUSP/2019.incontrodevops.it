@@ -7,6 +7,7 @@
       {% if speaker_id.first %}
           {% for speaker in site.data.speakers.list %}
             {% if speaker.id == speaker_id.first %}
+              <a name="{{speaker.id}}"></a>
               <div class="talk__speaker" style="background-image:url('{{ site.baseurl }}/img/{{ site.data.conference.slug }}/speaker/{{ speaker.image }}');"></div>
               {% break %}
             {% endif %}
@@ -14,6 +15,7 @@
       {% else %}
         {% for speaker in site.data.speakers.list %}
           {% if speaker.id == speaker_id %}
+              <a name="{{speaker.id}}"></a>
               <div class="talk__speaker" style="background-image:url('{{ site.baseurl }}/img/{{ site.data.conference.slug }}/speaker/{{ speaker.image }}');"></div>
             {% break %}
           {% endif %}
@@ -61,21 +63,25 @@
         {% for current_speaker_id in speaker_id %}
           {% for speaker in site.data.speakers.list %}
             {% if speaker.id == current_speaker_id %}
+            {% if speaker.twitter %}
               <a href="https://twitter.com/{{ speaker.twitter }}" class="talk__speaker-twitter">
                 <i class="icon-twitter"></i>
                 @{{ speaker.twitter }}
               </a>
+            {% endif %}
             {% endif %}
           {% endfor %}
         {% endfor %}
       {% else %}
         {% for speaker in site.data.speakers.list %}
         {% if speaker.id == speaker_id %}
+        {% if speaker.twitter %}
           <a href="https://twitter.com/{{ speaker.twitter }}" class="talk__speaker-twitter">
             <i class="icon-twitter"></i>
             @{{ speaker.twitter }}
           </a>
           {% break %}
+        {% endif %}
         {% endif %}
         {% endfor %}
       {% endif %}
