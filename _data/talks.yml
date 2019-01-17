@@ -296,6 +296,7 @@
     learned while dealing with the  introduction of microservices into a
     decades-old ecosystem,  and the principles, practices and solutions
     Wikimedia is now moving towards.
+  keynote: true  
 -
   speaker_id: jihai-zhou
   title: "The Challenge and Solutions to Implement DevSecOps into Large
