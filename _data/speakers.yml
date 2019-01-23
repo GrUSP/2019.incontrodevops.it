@@ -151,13 +151,6 @@ list:
     last_name: Lavagetto
     twitter:
   -
-    id: jihai-zhou
-    description:
-    image: jihai-zhou.jpg
-    first_name: Jihai
-    last_name: Zhou
-    twitter:
-  -
     id: umberto-nicoletti
     description:
     image: umberto-nicoletti.jpg
@@ -218,3 +211,9 @@ list:
     first_name: Paolo
     last_name: de Rosa
     twitter: paolo_de_ros
+  -
+    id: joel-lecorre
+    image: joel-lecorre.jpg
+    first_name: Joël
+    last_name: Le Corre
+    twitter: joellecorre 
