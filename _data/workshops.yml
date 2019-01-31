@@ -47,10 +47,15 @@ list:
         bio: Ph.D., BioDec
         link:
     intro: |
-      "Automatizzare le attività ripetitive e standardizzare gli ambienti è un problema che investe il mondo IT sia dal lato della gestione dei sistemi (Ops) che dal lato dello sviluppo (Dev). Il proliferare delle piattaforme e in particolare l’uso delle soluzioni Cloud ha accentuato il problema, rendendo necessario avere strumenti veloci, affidabili e facili per la gestione di configurazioni e per il continuo rilascio di codice.
+      Automatizzare le attività ripetitive e standardizzare gli ambienti è un problema che investe il mondo IT sia dal lato della gestione dei sistemi (Ops) che dal lato dello sviluppo (Dev). Il proliferare delle piattaforme e in particolare l’uso delle soluzioni Cloud ha accentuato il problema, rendendo necessario avere strumenti veloci, affidabili e facili per la gestione di configurazioni e per il continuo rilascio di codice.
       **Ansible: la nostra soluzione**
       Ansible è uno strumento per orchestrare l’installazione e la configurazione di sistemi ed applicazioni: permette di definire lo stato di uno o più server in modo prevedibile, replicabile e consistente. Simile in questo a software come Puppet, Chef, Saltstack o CFEngine, esso basa la propria filosofia su una parola chiave: la semplicità d’uso
-      A differenza di altri sistemi, Ansible non necessita di altro che di una connessione SSH tra la macchina che funge da controllore e i server da controllare, e tutto si gestisce con semplici direttive di configurazione contenute in file testuali. Ancora: è una soluzione agentless per cui non è necessario installare nessun client sugli hosts da configurare, ma solo Python e – cosa che non guasta – è anche un prodotto che presenta una curva di apprendimento molto agevole."
+      A differenza di altri sistemi, Ansible non necessita di altro che di una connessione SSH tra la macchina che funge da controllore e i server da controllare, e tutto si gestisce con semplici direttive di configurazione contenute in file testuali. Ancora: è una soluzione agentless per cui non è necessario installare nessun client sugli hosts da configurare, ma solo Python e – cosa che non guasta – è anche un prodotto che presenta una curva di apprendimento molto agevole.
+      **Cosa avrò imparato alla fine del corso?**
+      - A scrivere playbook e role Ansible per fare partire, fermare e configurare dei server Linux; si imparerà come si definiscono con Ansible i profili di configurazione di vari server, corrispondenti ad usi differenti (*i.e.* web server, database server, server di monitoraggio, eccetera).
+      - Si imparerà, inoltre, come svolgere alcune azioni ripetitive su tutti i server dell'infrastruttura, come ad esempio aggiornare dei pacchetti software, fare deploy di nuovi programmi, eccetera.
+      - Si imparerà a testare il codice Ansible con Molecule, un prodotto del progetto Ansible ufficiale.
+      - Si affronteranno tematiche DevOps come la configurazione della *Continuous Integration* in un ambiente misto Docker/Virtual Machine per testare il nostro codice.    
     program: |
       Scaletta corso:
       - 9:00 Registrazione dei partecipanti
@@ -60,9 +65,8 @@ list:
       - 14:30 Ripresa delle attività
       - 16:00 Break
       - 18:00 Conclusione
-      "Una piccola curiosita: la parola _ansible_ si riferisce all’omonimo dispositivo che nel romanzo di fantascienza _Il Gioco di Ender_ di Orson Scott Card permetteva di controllare remotamente le astronavi."
     addressed_info: |
-      Il corso si applica a tutti, ma è bene avere una confidenza di base con la shell Bash – si lavorerà su una macchina Vagrant Debian Jessie.
+      Il corso si applica a tutti, ma è bene avere una confidenza di base con la shell Bash – si lavorerà su una macchina Vagrant Debian.
     useful_info: |
       La durata del corso è di una giornata e **si terrà il 7 Marzo** (il giorno prima della conferenza).
       È responsabilità del partecipante arrivare con portatile configurato e funzionante con Vagrant. Vi daremo tutte le indicazioni utili per la configurazione.
