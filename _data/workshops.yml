@@ -47,10 +47,13 @@ list:
         bio: Ph.D., BioDec
         link:
     intro: |
-      Automatizzare le attività ripetitive e standardizzare gli ambienti è un problema che investe il mondo IT sia dal lato della gestione dei sistemi (Ops) che dal lato dello sviluppo (Dev). Il proliferare delle piattaforme e in particolare l’uso delle soluzioni Cloud ha accentuato il problema, rendendo necessario avere strumenti veloci, affidabili e facili per la gestione di configurazioni e per il continuo rilascio di codice.\n
-      **Ansible: la nostra soluzione**\n
+      Automatizzare le attività ripetitive e standardizzare gli ambienti è un problema che investe il mondo IT sia dal lato della gestione dei sistemi (Ops) che dal lato dello sviluppo (Dev). Il proliferare delle piattaforme e in particolare l’uso delle soluzioni Cloud ha accentuato il problema, rendendo necessario avere strumenti veloci, affidabili e facili per la gestione di configurazioni e per il continuo rilascio di codice.
+
+      **Ansible: la nostra soluzione**
+
       Ansible è uno strumento per orchestrare l’installazione e la configurazione di sistemi ed applicazioni: permette di definire lo stato di uno o più server in modo prevedibile, replicabile e consistente. Simile in questo a software come Puppet, Chef, Saltstack o CFEngine, esso basa la propria filosofia su una parola chiave: la semplicità d’uso
-      A differenza di altri sistemi, Ansible non necessita di altro che di una connessione SSH tra la macchina che funge da controllore e i server da controllare, e tutto si gestisce con semplici direttive di configurazione contenute in file testuali. Ancora: è una soluzione agentless per cui non è necessario installare nessun client sugli hosts da configurare, ma solo Python e – cosa che non guasta – è anche un prodotto che presenta una curva di apprendimento molto agevole.\n
+      A differenza di altri sistemi, Ansible non necessita di altro che di una connessione SSH tra la macchina che funge da controllore e i server da controllare, e tutto si gestisce con semplici direttive di configurazione contenute in file testuali. Ancora: è una soluzione agentless per cui non è necessario installare nessun client sugli hosts da configurare, ma solo Python e – cosa che non guasta – è anche un prodotto che presenta una curva di apprendimento molto agevole.
+
       **Cosa avrò imparato alla fine del corso?**
       - A scrivere playbook e role Ansible per fare partire, fermare e configurare dei server Linux; si imparerà come si definiscono con Ansible i profili di configurazione di vari server, corrispondenti ad usi differenti (*i.e.* web server, database server, server di monitoraggio, eccetera).
       - Si imparerà, inoltre, come svolgere alcune azioni ripetitive su tutti i server dell'infrastruttura, come ad esempio aggiornare dei pacchetti software, fare deploy di nuovi programmi, eccetera.
