@@ -84,7 +84,7 @@ gold:
       image: kiratech.svg
     -
       url: https://www.lpi.org/it/?utm_source=idi2019
-      image: lpi.svg  
+      image: lpi.svg
 silver:
   price: € 750
   offer:
@@ -96,7 +96,7 @@ silver:
   max: 32
   list:
     -
-      url: https://labs.madisoft.it/?utm_source=idi2019
+      url:  https://labs.madisoft.it/devops-engineer/?utm_source=idi2019
       image: madisoft.svg
     -
       url: https://www.opencontent.it/?utm_source=idi2019
