@@ -11,7 +11,7 @@
       {% endif %}
     </span>
   </td>
-  <td class="schedule__cell schedule__cell--event" {% if include.fill %} colspan="3" {% endif %}>
+  <td class="schedule__cell schedule__cell--event" {% if include.fill %} colspan="4" {% endif %} {% if include.big %} rowspan="2" {% endif %}>
     <div class="schedule__title">
       {{ include.title }}
     </div>

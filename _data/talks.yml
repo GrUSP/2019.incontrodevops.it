@@ -411,3 +411,41 @@
     tecnologiche che la PA deve affrontare per migrare i propri servizi in cloud
     dando il via allo sviluppo del Piano di abilitazione nazionale al Cloud per la PA.
     Proviamo a gettare uno sguardo in questa direzione.
+-
+  speaker_id: gianluca-mascolo
+  title: "A come Artefatto"
+  extract: >
+    Usare Packer per generare AMI tramite codice Il deploy
+    di applicazioni su istanze EC2 è il primo passo per andare da
+    applicazioni on-premise verso la cloud.Le AMI offerte dal marketplace di
+    AWS devono generalmente essere adattateper installare software di
+    sistema (es. il webserver) e la applicazione che si intende servire
+    prima di poter essere effettivamente utilizzate.Questo talk illustrerà i
+    vantaggi di un modello di templating tramitePacker che permette la
+    generazione di AMI attraverso layer ripetibili, inmodo da incorporare
+    l'artefatto della applicazione di cui si vuole effettuare il deploy in
+    EC2.
+-
+  speaker_id: paolo-arcagni
+  title: "Application Services in CI/CD Pipelines, multi-cloud and micro-services environments"
+  extract: >
+    Application Security, API Security, bot Protection, DDoS Protection,
+    Optimization: any app deployed in production, on any public/private
+    cloud infrastructure requires an exhaustive, homogeneous set of
+    Application Services. In this talk we will see how to deploy a whole set
+    of application services to every app, everywhere, with comprehensive
+    CI/CD integrations. We will go through a deep dive on private and public
+    cloud environments and micro-services architectures.
+-
+  speaker_id: simone-di-mambro
+  title: "Keep CALM and build Karbon"
+  extract: >
+    Ovvero come semplificare ed ottimizzare la gestione nel mondo DevOps su
+    una infrastruttura web-scale iperconvergente come Nutanix. Nutanix
+    fornisce una soluzione onnicomprensiva che può facilitare il compito
+    alle operation e fornire servizi di automazione utile agli sviluppatori.
+    La robustezza dell'infrastruttura Nutanix si sposa con l'evoluzione dei
+    servizi, permettendo l'erogazione di qualsiasi applicazione con un
+    altissimo grado di resilienza e semplicità di gestione. La piattaforma
+    si evolve con una componente di orchestrazione, Nutanix CALM ed una
+    distribuzione Kubernetes certified, Nutanix Karbon.
