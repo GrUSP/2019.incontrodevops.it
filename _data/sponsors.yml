@@ -68,6 +68,9 @@ platinum:
     -
       url: https://newrelic.com/?utm_source=idi2019
       image: newrelic.svg
+    -
+      url: https://info.subito.it/lavora-con-noi.htm/?utm_source=idi2019
+      image: subito.svg
 gold:
   price: € 1,500
   offer:
