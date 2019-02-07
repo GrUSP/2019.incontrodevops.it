@@ -34,11 +34,14 @@ diamond:
     - Bring your own gadgets (flyers, stickers, t-shirts)
     - 2 free tickets
     - 5 tickets with 20% discount
-  max: 2
+  max: 4
   list:
     -
-      url: https://www.f5.com/
+      url: https://www.f5.com/?utm_source=idi2019
       image: f5.svg
+    -
+      url: https://www.nutanix.com/?utm_source=idi2019
+      image: nutanix.svg
 
 platinum:
   price: € 3,000
