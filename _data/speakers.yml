@@ -219,19 +219,19 @@ list:
     twitter: joellecorre 
   -
     id: gianluca-mascolo
-    image:
+    image: gianluca-mascolo.jpg
     first_name: Gianluca
     last_name: Mascolo
     description: Senior System Administrator at Subito.it
   -
     id: paolo-arcagni
-    image:
+    image: paolo-arcagni.jpg
     first_name: Paolo
     last_name: Arcagni
     description: Manager, Systems Engineering Italy & Iberia at F5
   -
     id: simone-di-mambro
-    image:
+    image: simone-di-mambro.jpg
     first_name: Simone
     last_name: Di Mambro
     description: Senior System Engineer Italy at Nutanix
