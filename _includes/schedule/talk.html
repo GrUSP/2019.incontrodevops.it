@@ -1,4 +1,8 @@
 
+{% assign title = include.title %}
+{% assign speaker_id = {} %}
+{% assign talk = {} %}
+
 {% for talk in site.data.talks %}
   {% if talk.title == include.title %}
     {% assign title = talk.title %}
@@ -18,7 +22,7 @@
     <span class="schedule__on-air">on air</span>
   </td>
   {% endif %}
-  <td class="schedule__cell schedule__cell--event" {% if include.fill %} colspan="3" {% endif %}>
+  <td class="schedule__cell schedule__cell--event" {% if include.fill %} colspan="4" {% endif %} {% if include.big %} rowspan="2" {% endif %}>
     <div class="schedule__title">
       {{ title }}
       <div class="schedule__detail">
@@ -33,15 +37,17 @@
                   <span class="schedule__speaker">
                     {{ speaker.first_name }} {{ speaker.last_name }}
                   </span>
+                  {% if include.sponsor %}<p>{{ speaker.description }}</p>{% endif %}
                 {% endif %}
               {% endfor %}
             {% endfor %}
           {% else %}
             {% for speaker in site.data.speakers.list %}
             {% if speaker.id == speaker_id %}
-              <span class="schedule__speaker">
+              <span class="schedule__speaker {% if include.sponsor %}schedule__sponsor{% endif %}">
                 {{ speaker.first_name }} {{ speaker.last_name }}
               </span>
+              {% if include.sponsor %}<p>{{ speaker.description }}</p>{% endif %}
               {% break %}
             {% endif %}
             {% endfor %}
