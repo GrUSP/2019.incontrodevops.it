@@ -74,6 +74,9 @@ platinum:
     -
       url: https://info.subito.it/lavora-con-noi.htm/?utm_source=idi2019
       image: subito.svg
+    -
+      url: https://it.qibit.tech/?utm_source=idi2019
+      image: qibit.svg
 gold:
   price: € 1,500
   offer:
