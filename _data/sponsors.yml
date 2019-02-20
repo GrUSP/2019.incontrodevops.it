@@ -117,6 +117,9 @@ silver:
     -
       url: https://www.workwave.com/
       image: workwave.svg
+    -
+      url: https://kireygroup.com?utm_source=idi2019
+      image: kirey.png
 bronze:
   price: € 500
   offer:
