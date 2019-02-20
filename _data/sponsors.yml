@@ -77,6 +77,10 @@ platinum:
     -
       url: https://it.qibit.tech/?utm_source=idi2019
       image: qibit.svg
+    -
+      url: https://www.it.lastminute.com/aiuto/lavora-con-noi.html/?utm_source=idi2019
+      image: lastminute.svg
+
 gold:
   price: € 1,500
   offer:
