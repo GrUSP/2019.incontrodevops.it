@@ -80,6 +80,9 @@ platinum:
     -
       url: https://www.it.lastminute.com/aiuto/lavora-con-noi.html/?utm_source=idi2019
       image: lastminute.svg
+    -
+      url: http://www.ynap.com/pages/careers/
+      image: ynap.png
 
 gold:
   price: € 1,500
