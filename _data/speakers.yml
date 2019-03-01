@@ -186,13 +186,6 @@ list:
     last_name: Re Ferrè
     twitter:
   -
-    id: leon-stigter
-    description:
-    image: leon-stigter.jpg
-    first_name: Leon
-    last_name: Stigter
-    twitter: LeonStigter
-  -
     id: giuseppe-carnevali
     description:
     image: giuseppe-carnevali.jpg
