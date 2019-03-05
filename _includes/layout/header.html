@@ -43,10 +43,11 @@
             Call for paper
           </a>
           {% endif %}
+          {% if site.data.sponsors.call_for_sponsor %}
           <a href="{{ site.baseurl }}/sponsor.html" class="button button--no-tablet-small">
             Sponsor
           </a>
-
+          {% endif %}
           {% if site.data.tickets.sold_out %}
             <div class="button button--sold-out">
               sold out
